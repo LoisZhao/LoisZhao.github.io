@@ -1,0 +1,13 @@
+
+/* Start here */
+
+body {
+    color:green;
+     font-size: 18pt
+}
+.margin-one {
+    margin-bottom: 50px;
+}
+.margin-two{
+    margin-right: 200px;
+}
